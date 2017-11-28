@@ -12,3 +12,7 @@ before_install:
 language: node_js
 node_js:
   - "9"
+  install:
+  - npm install
+script:
+  - npm test
