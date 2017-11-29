@@ -39,4 +39,6 @@ arquitectura
    
 sgescolar_service
   http://104.236.51.250/
-
+  
+  firebase
+https://sgescolar-configuracion-client.firebaseapp.com
