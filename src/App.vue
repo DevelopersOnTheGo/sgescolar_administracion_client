@@ -1,10 +1,10 @@
 <template>
   <div id="app">
     <v-app id="inspire">
-      <v-navigation-drawer persistent v-model="drawer" enable-resize-watcher right app>
+      <v-navigation-drawer class="hello" persistent v-model="drawer" enable-resize-watcher right app>
         <v-list dense>
           <v-list>
-            <v-list-tile value="true" v-for="(item, i) in items" :key="i">
+            <v-list-tile valu e="true" v-for="(item, i) in items" :key="i">
               <v-list-tile-action>
                 <v-icon light v-html="item.icon"></v-icon>
               </v-list-tile-action>
