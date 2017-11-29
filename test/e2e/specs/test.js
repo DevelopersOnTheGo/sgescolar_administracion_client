@@ -20,8 +20,8 @@ module.exports = {
       .url('/especialidad')
       .waitForElementVisible('body', 5000)
       .assert.containsText('h4', 'Crear Docentes')
-      .assert.elementCount('div', 67);
-      
+      .assert.elementCount('div', 73);
+
 
   },
 
