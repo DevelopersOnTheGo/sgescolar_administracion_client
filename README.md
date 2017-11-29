@@ -1,3 +1,5 @@
+!https://travis-ci.org/DevelopersOnTheGo/sgescolar_administracion_client.svg?branch=master!:https://travis-ci.org/DevelopersOnTheGo/sgescolar_administracion_client
+
 # asistencia-2
 
 > A Vue.js project
