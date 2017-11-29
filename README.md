@@ -1,4 +1,4 @@
-!https://travis-ci.org/DevelopersOnTheGo/sgescolar_administracion_client.svg?branch=master!:https://travis-ci.org/DevelopersOnTheGo/sgescolar_administracion_client
+[![Build Status](https://travis-ci.org/DevelopersOnTheGo/sgescolar_administracion_client.svg?branch=master)](https://travis-ci.org/DevelopersOnTheGo/sgescolar_administracion_client)
 
 # asistencia-2
 
