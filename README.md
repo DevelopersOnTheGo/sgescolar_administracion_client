@@ -33,5 +33,8 @@ npm test
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
 
 ## Links
-https://developersonthego.github.io/uml-architecture-School-Management/
+arquitectura
+  https://developersonthego.github.io/uml-architecture-School-Management/
+sgescolar_service
+  http://104.236.51.250/
 
