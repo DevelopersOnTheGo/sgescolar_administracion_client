@@ -18,7 +18,9 @@ module.exports = {
   'Test Docente' : function(browser) {
     browser
       .url('/especialidad')
-      .waitForElementVisible('body', 5000);
+      .waitForElementVisible('body', 5000)
+      .assert.containsText('h4', 'Crear Docentes')
+      .assert.elementCount('div', 67);
         },
 
   after : function(browser) {
