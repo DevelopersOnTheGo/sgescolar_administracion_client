@@ -35,6 +35,8 @@ For detailed explanation on how things work, checkout the [guide](http://vuejs-t
 ## Links
 arquitectura
   https://developersonthego.github.io/uml-architecture-School-Management/
+  
+   
 sgescolar_service
   http://104.236.51.250/
 
